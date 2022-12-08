@@ -1,0 +1,72 @@
+body {
+    background-image: url(images/test.jpg);
+    background-size: cover;
+    width: 100%;
+    margin: 0%;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: 320%;
+}
+
+#soustitle {
+    color: white;
+    text-align: center;
+}
+
+#img_insta {
+    width: 200px;
+    height: 200px;
+}
+
+#img_snap {
+    width: 200px;
+    height: 200px;
+}
+
+#img_bereal {
+    width: 200px;
+    height: 200px;
+}
+
+#img_discord {
+    width: 200px;
+    height: 200px;
+}
+
+#img_tiktok {
+    width: 200px;
+    height: 200px;
+}
+
+#un {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+#deux {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+#trois {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+#quatre {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+#cinque {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
